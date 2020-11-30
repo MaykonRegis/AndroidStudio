@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <!-- Cor primária do aplicativo (cor da barra superior do app) -->
+    <color name="primary_color">#1a237e</color>
+
+    <!-- Cor primária escura (cor da barra de status do app) -->
+    <color name="primary_dark_color">#000051</color>
+
+    <!-- Cor de fundo do app -->
+    <color name="app_background">#C8DFFA</color>
+
+    <!-- Cor de fundo da categoria números -->
+    <color name="cat_numeros">#1565C0</color>
+
+    <!-- Cor de fundo da categoria cores -->
+    <color name="cat_cores">#00838F</color>
+
+    <!-- Cor de fundo da categoria família -->
+    <color name="cat_familia">#F9A825</color>
+
+
+</resources>
+

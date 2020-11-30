@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background"
+    android:orientation="vertical"
+    tools:context="com.example.android.dicionarioxbeta1.MainActivity">
+
+    <TextView
+        android:id="@+id/numeros"
+        style="@style/EstiloCategoria"
+        android:background="@color/cat_numeros"
+        android:layout_margin="16dp"
+        android:text="Números" />
+
+    <TextView
+        android:id="@+id/cores"
+        style="@style/EstiloCategoria"
+        android:background="@color/cat_cores"
+        android:layout_margin="16dp"
+        android:text="Cores" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+</LinearLayout>
